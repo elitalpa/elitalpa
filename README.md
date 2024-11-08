@@ -1,4 +1,9 @@
-### Hello 👋
+## Hello 👋
+I am Eli, a Developer.
+
+### Open Source Contributions
+
+- [Next 15.0.2 release](https://github.com/vercel/next.js/releases/tag/v15.0.2)
 
 <!--
 **elitalpa/elitalpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
