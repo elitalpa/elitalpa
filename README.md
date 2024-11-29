@@ -1,6 +1,10 @@
 ## Hello 👋
 I am Eli, a Developer.
 
+### Current Projects
+
+- [creanote](https://github.com/elitalpa/creanote)
+
 ### Open Source Contributions
 
 - [Next 15.0.2 release](https://github.com/vercel/next.js/releases/tag/v15.0.2)
