@@ -1,7 +1,7 @@
 ## Hello 👋
 I am Eli, a Developer.
 
-### Current Projects
+### Projects
 
 - [Util UI](https://utilui.com/)
 - [creanote](https://github.com/elitalpa/creanote)
