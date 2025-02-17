@@ -16,6 +16,8 @@ I am Eli, a Developer.
   - fixed a webpack build error which prevented any project from running on Windows due to a bug with certain file paths
 - Comment on [React 19 issue](https://github.com/facebook/react/issues/29898#issuecomment-2494980573)
   - issue blocking the stable release
+- Contribution to [React docs](https://github.com/reactjs/react.dev/pull/7615)
+  - fixed wrong command
 
 <!--
 **elitalpa/elitalpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
