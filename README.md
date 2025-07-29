@@ -1,14 +1,19 @@
 ## Hello 👋
 I am Eli, a Developer.
 
+[![committers.top badge](https://user-badge.committers.top/belgium_private/elitalpa.svg)](https://user-badge.committers.top/belgium_private/elitalpa)  
+In the Top of most active GitHub users in Belgium (I code a lot).
+
 ### Projects
 
+- [eliapps.com](https://eliapps.com)
+  - Most of my projects are here.
+- [creanote](https://github.com/elitalpa/creanote)
+  - CLI tool for note taking. Available on NPM.
 - [Util UI](https://utilui.com/)
-  - UI components built with React & compatible with shadcn
+  - UI components built with React & compatible with shadcn.
 - [Stacked Links](https://stackedlinks.com/)
-  - Resources with links
-- [creanote](https://github.com/elitalpa/creanote) (npm package)
-  - Note Taking CLI
+  - Website listing resources with multiple links.
 
 ### Open Source Contributions
 
