@@ -12,8 +12,6 @@ In the Top of most active GitHub users in Belgium (I code a lot).
   - CLI tool for note taking. Available on NPM.
 - [Util UI](https://utilui.com/)
   - UI components built with React & compatible with shadcn.
-- [Stacked Links](https://stackedlinks.com/)
-  - Website listing resources with multiple links.
 
 ### Open Source Contributions
 
