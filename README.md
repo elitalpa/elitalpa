@@ -2,6 +2,8 @@
 I am Eli, a Developer.
 
 [![committers.top badge](https://user-badge.committers.top/belgium_private/elitalpa.svg)](https://user-badge.committers.top/belgium_private/elitalpa)  
+[![committers.top badge](https://user-badge.committers.top/belgium_public/elitalpa.svg)](https://user-badge.committers.top/belgium_public/elitalpa)
+[![committers.top badge](https://user-badge.committers.top/belgium/elitalpa.svg)](https://user-badge.committers.top/belgium/elitalpa)  
 In the Top of most active GitHub users in Belgium (I code a lot).
 
 ### Projects
